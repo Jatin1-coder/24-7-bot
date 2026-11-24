@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DimensionSMPS1.aternos.me",
+    "ip": "barramundi.aternos.host",
     "port": 63642,
     "version": "1.20.1",
     "try-creative": false
