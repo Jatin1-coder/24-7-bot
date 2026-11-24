@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DimensionSMP32",
+    "username": "DimensionBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "barramundi.aternos.host",
+    "ip": "DimensionSMPS1.aternos.me",
     "port": 63642,
     "version": "1.20.1",
     "try-creative": false
